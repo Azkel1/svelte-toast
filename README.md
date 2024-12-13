@@ -1,6 +1,4 @@
 # svelte-toast
-A self-contained customizable toast component for Svelte
-
 ![Image of a toast notification with the message 'A self-contained customizable toast component for Svelte'](images/toast.webp)
 
 ## Preview
