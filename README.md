@@ -1,7 +1,7 @@
 # svelte-toast
 A self-contained customizable toast component for Svelte
 
-![Image of a toast notification with the message "A self-contained customizable toast component for Svelte"]("images/toast.webp")
+![Image of a toast notification with the message 'A self-contained customizable toast component for Svelte'](images/toast.webp)
 
 ## Preview
 To run the demo website simply clone the repository, run `pnpm i` and then start the server with `pnpm dev`
